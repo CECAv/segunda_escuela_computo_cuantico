@@ -1,4 +1,4 @@
-# seguna_escuela_computo_cuantico
+# Segunda Escuela de Cómputo Cuántico
 Segunda Escuela de Cómputo Cuántico
 
 La Segunda Escuela de Cómputo Cuántico está dirigida tanto a alumnos como a académicos egresados de, o cursando, alguna carrera afín a la Computación, Física o Matemáticas.
